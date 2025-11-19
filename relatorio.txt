@@ -1,0 +1,8 @@
+================ RELATÓRIO DE ALUNOS ================
+
+Registro 1
+Nome......: Lucas
+Matrícula.: 201015251
+Nota......: 10.00
+Status....: ATIVO
+
